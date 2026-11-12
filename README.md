@@ -1,3 +1,3 @@
 # MiniShop REST API
 
-![CI](https://github.com/ann456x/minishop/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Ann456x/lab13constr/actions/workflows/ci.yml/badge.svg)
